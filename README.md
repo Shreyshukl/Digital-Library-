@@ -1,11 +1,5 @@
 # Digital Library Audit System
 
-## Author
-Shrey Shukla  
-2026
-
----
-
 ## Overview
 A SQL-based backend system designed to manage and audit a digital library.
 
